@@ -1,0 +1,177 @@
+{
+  "bank_users" : {
+    "1wk3yVjzjVQZTPy7RKIs7nCWPe03" : {
+      "email" : "hydra1234444@gmail.com",
+      "localId" : "1wk3yVjzjVQZTPy7RKIs7nCWPe03",
+      "pasw" : "hydra123",
+      "usernme" : "hydra golu"
+    },
+    "6LefHWYtc1O2jCQZEi0NwHMtrdC2" : {
+      "email" : "hydra321@gmail.com",
+      "localId" : "6LefHWYtc1O2jCQZEi0NwHMtrdC2",
+      "pasw" : "stupas321",
+      "usernme" : "gaurav"
+    },
+    "BTBR109Cm2PmT5kdf9T0QNyUvPA2" : {
+      "email" : "hydra455@gmail.com",
+      "localId" : "BTBR109Cm2PmT5kdf9T0QNyUvPA2",
+      "pasw" : "stupas321",
+      "usernme" : "gaurav"
+    },
+    "ERi0QP0qbLYYVYrAYZzL4rcLejm1" : {
+      "email" : "gauravv@gmail.com",
+      "localId" : "ERi0QP0qbLYYVYrAYZzL4rcLejm1",
+      "pasw" : "stupas321",
+      "usernme" : "devottam gaurav"
+    },
+    "JEjjufv7JhXNB88DP1bKassBN1g2" : {
+      "email" : "hydra123456777@gmail.com",
+      "localId" : "JEjjufv7JhXNB88DP1bKassBN1g2",
+      "pasw" : "hydra123",
+      "usernme" : "gauravgolu"
+    },
+    "JhO6K7WnxjckEI3CQA2R1kK4Acj2" : {
+      "email" : "hydra1234555@gmail.com",
+      "localId" : "JhO6K7WnxjckEI3CQA2R1kK4Acj2",
+      "pasw" : "stupas321",
+      "usernme" : "gaurav"
+    },
+    "PY4FJUgpqbPx20abzCZDbw3P7TG2" : {
+      "email" : "gauty@gmail.com",
+      "localId" : "PY4FJUgpqbPx20abzCZDbw3P7TG2",
+      "pasw" : "stupas321",
+      "usernme" : "gauyty"
+    },
+    "PlJa8mCPm2f8J3b2VrO7VcX2ptk2" : {
+      "email" : "gaurav2334@gmail.com",
+      "localId" : "PlJa8mCPm2f8J3b2VrO7VcX2ptk2",
+      "pasw" : "stupas321",
+      "usernme" : "gauravg"
+    },
+    "VaGhW3dw8aSSlWbhBhAqAodntFL2" : {
+      "email" : "gaurrg@gmail.com",
+      "localId" : "VaGhW3dw8aSSlWbhBhAqAodntFL2",
+      "pasw" : "stupas321",
+      "usernme" : "devottam gaurav"
+    },
+    "lHeMxVRE9EN0aOxP72nsCDBUqkS2" : {
+      "email" : "hydra123433@gmail.com",
+      "localId" : "lHeMxVRE9EN0aOxP72nsCDBUqkS2",
+      "pasw" : "stupas321",
+      "usernme" : "gauravgoluthi"
+    }
+  },
+  "customers" : {
+    "48FrNQ7QeMfHwDfIjGyLfbMhlOs1" : {
+      "addrr" : "newdelhi",
+      "compn" : "dell",
+      "emmm" : "cust3214@gmail.com",
+      "localId" : "48FrNQ7QeMfHwDfIjGyLfbMhlOs1",
+      "mblle" : "9874563214",
+      "passwwd" : "stupas321"
+    },
+    "AdLWNMHuN0RQCckyiVqdCRWVXAI2" : {
+      "addrr" : "munirka",
+      "compn" : "dellcust",
+      "emmm" : "customer123@gmail.com",
+      "localId" : "AdLWNMHuN0RQCckyiVqdCRWVXAI2",
+      "mblle" : "9560634567",
+      "passwwd" : "dellcust"
+    },
+    "IxTBqyMSTucoU0MYSyWskzk4rgz1" : {
+      "addrr" : "newdelhi",
+      "compn" : "dell",
+      "emmm" : "cust4567@gmail.com",
+      "localId" : "IxTBqyMSTucoU0MYSyWskzk4rgz1",
+      "mblle" : "9876543214",
+      "passwwd" : "stupas321"
+    },
+    "ROl2AiptAhgCxOjm36GpQyX224n1" : {
+      "addrr" : "newdelhi",
+      "compn" : "dell",
+      "emmm" : "gaurav123333@gmail.com",
+      "localId" : "ROl2AiptAhgCxOjm36GpQyX224n1",
+      "mblle" : "9560694388",
+      "passwwd" : "stupas321"
+    },
+    "VpAkoHg3WzcX5HKTyhldMegWIft2" : {
+      "addrr" : "delhi",
+      "compn" : "defense",
+      "emmm" : "hydra123456789@gmail.com",
+      "localId" : "VpAkoHg3WzcX5HKTyhldMegWIft2",
+      "mblle" : "9560694389",
+      "passwwd" : "stupas321"
+    },
+    "fqBTvDtqNeSC6QdAmLTDJ6RyTEf1" : {
+      "addrr" : "gaurav",
+      "compn" : "dell",
+      "emmm" : "gaurav1222@gmail.com",
+      "localId" : "fqBTvDtqNeSC6QdAmLTDJ6RyTEf1",
+      "mblle" : "878974456412321",
+      "passwwd" : "stupas321"
+    },
+    "iHMS7lk11Pd14LesW22bNjdn9O42" : {
+      "addrr" : "munirka",
+      "compn" : "dell",
+      "emmm" : "cust1234@gmail.com",
+      "localId" : "iHMS7lk11Pd14LesW22bNjdn9O42",
+      "mblle" : "9560694385",
+      "passwwd" : "stupas321"
+    },
+    "yqrIKL9kELQzyQecNPNR47CeYky2" : {
+      "addrr" : "newdelhi",
+      "compn" : "dell",
+      "emmm" : "gaurav123@gmail.com",
+      "localId" : "yqrIKL9kELQzyQecNPNR47CeYky2",
+      "mblle" : "9560694388",
+      "passwwd" : "stupas321"
+    }
+  },
+  "users" : {
+    "98QtMRhHcvaO9QlmbkmDQROhSof1" : {
+      "email" : "gauravtghy@gmail.com",
+      "localId" : "98QtMRhHcvaO9QlmbkmDQROhSof1",
+      "pasw" : "c3R1cGFzNDU2"
+    },
+    "BYwFfyVHQ5fypOJzbWBwh7VrNVb2" : {
+      "email" : "golugulathi12344@gmail.com",
+      "localId" : "BYwFfyVHQ5fypOJzbWBwh7VrNVb2",
+      "pasw" : ""
+    },
+    "EzjjB4JpWAhh22gVdl23VK0WpMH2" : {
+      "email" : "gaurav@gmail.com",
+      "localId" : "EzjjB4JpWAhh22gVdl23VK0WpMH2",
+      "pasw" : "c3R1cGFzMTIz"
+    },
+    "Ga34S5cDMGhpr6HRO4GQ9rwl9u73" : {
+      "email" : "fghtyu@gmail.com",
+      "localId" : "Ga34S5cDMGhpr6HRO4GQ9rwl9u73",
+      "pasw" : ""
+    },
+    "JYEOyEJtUsVQW5AcCzVTtCgLSnY2" : {
+      "email" : "pmj@gmail.com",
+      "localId" : "JYEOyEJtUsVQW5AcCzVTtCgLSnY2",
+      "pasw" : ""
+    },
+    "gtxUbCKGxYXV78ZWzqAqAzacY5R2" : {
+      "email" : "gaurggt@gmail.com",
+      "localId" : "gtxUbCKGxYXV78ZWzqAqAzacY5R2",
+      "pasw" : "c3R1cGFzMzIx"
+    },
+    "hAfXq2XoyVfqNEiapaAY3QmkjAv1" : {
+      "email" : "gauravturu@gmail.com",
+      "localId" : "hAfXq2XoyVfqNEiapaAY3QmkjAv1",
+      "pasw" : ""
+    },
+    "nGJgS8epTCfu4urM4LsdGlkWPv52" : {
+      "email" : "monika@gmail.com",
+      "localId" : "nGJgS8epTCfu4urM4LsdGlkWPv52",
+      "pasw" : ""
+    },
+    "tDgo6FZUoBVeDJEzwTsk7aTanaH3" : {
+      "email" : "gauravpuru123@gmail.com",
+      "localId" : "tDgo6FZUoBVeDJEzwTsk7aTanaH3",
+      "pasw" : ""
+    }
+  }
+}
